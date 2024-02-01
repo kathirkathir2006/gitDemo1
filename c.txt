@@ -1,2 +1,2 @@
 this is a file craeted from github by dev B (GITHUB)
-modified by dev B
+modified by dev B - diff content
